@@ -1,1 +1,3 @@
-# DATAANALYTICS
+DATA ANALYTICS 
+This project is an assignment by PLP Software engineering program where we were supposed to explain our efficiency in using Python to run some data analytics on a dataset of our choice and come up with interpretation, summary and observation we made . 
+We were also to use incorporate the use of python Libraries such as  matplotlib and pandas to enable us visualize and interpret our findings. 
